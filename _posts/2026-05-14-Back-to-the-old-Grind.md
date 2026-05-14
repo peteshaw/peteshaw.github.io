@@ -1,3 +1,4 @@
+### 20260514
 I have an on again, off again, relationship with blogging.  Back when my kids were little I had a blog where I would post photos and funny stories about my experiences.  I feel like I should have kept with it, I could have been an influencer, and I would have been on the ground floor back then.
 
 But anyway, another reason people blog is to provide technical information to the internet.  People start their own projects on github, or begin open source projects, or just start posting articles about things that interest them and become experts in their field.  But another portion of that is a commitment device.  If you are squirreled away in your bedroom hacking all weekend on a project, whether or not it is successful, no one will know.  But if you post about it it becomes real. Your work takes on an external life of its own and is out there for the world to see.
